@@ -6,7 +6,7 @@ def create_an_array
   new_array = ["earth", "wind", "water", "fire"]
 end
 
-def add_element_to_end_of_array(array, element)
+def add_element_to_end_of_array(new_array, element)
   new_array.push("steel")
 end
 
